@@ -6,7 +6,7 @@
 > 
 > Año escolar: 2023-24
 > 
-> [IES Aguadulce](https://www.iesaguadulce.es)
+> IES Aguadulce
 
 
 ## Descripción.
