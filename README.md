@@ -1,6 +1,3 @@
-
-<img src="./docs/img/logo_ies_aguadulce.png" width="100px" style="float:left;padding: 0 10px;">
-
 # Tarea XX: XXXXXXXXXXXXXXXXXXXXX
 
 ### _Nombre y apellidos_ [@usuarioGithub](https://github.com/usuarioGithub)
@@ -9,6 +6,7 @@
 > 
 > Año escolar: 2024-25
 > 
+> <img src="./docs/img/logo_ies_aguadulce.png" width="100px">
 > IES Aguadulce
 
 
