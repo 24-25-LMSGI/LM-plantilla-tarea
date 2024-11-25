@@ -2,13 +2,12 @@
 
 ### _Nombre y apellidos_ [@usuarioGithub](https://github.com/usuarioGithub)
 
-> DAW- Despliegue de Aplicaciones Web.
+> LMSGI - Lenguaje de Marcas y Sistemas de Gestión de la Información. DAW.
 > 
 > Año escolar: 2024-25
 > 
-> <img src="./docs/img/logo_ies_aguadulce.png" width="100px">
-> 
-> IES Aguadulce
+> [<img src="./docs/img/logo_ies_aguadulce.png" width="100px">](https://www.iesaguadulce.es)
+
 
 
 ## Descripción.
