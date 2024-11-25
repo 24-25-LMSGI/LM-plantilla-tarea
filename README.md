@@ -1,5 +1,5 @@
 
-<img src="./docs/img/logo_ies_aguadulce.png" width="80px" style="display: float">
+<img src="./docs/img/logo_ies_aguadulce.png" width="80px" style="float:left">
 
 # Tarea XX: XXXXXXXXXXXXXXXXXXXXX
 
