@@ -7,7 +7,7 @@
 > 
 > Año escolar: 2024-25
 > 
-> [<img src="./docs/img/logo_ies_aguadulce.png" width="100px">](https://www.iesaguadulce.es)
+> [<img src="./img/logo_ies_aguadulce.png" width="100px">](https://www.iesaguadulce.es)
 
 
 
