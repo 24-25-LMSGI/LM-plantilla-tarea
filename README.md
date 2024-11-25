@@ -1,3 +1,4 @@
+
 # Tarea XX: XXXXXXXXXXXXXXXXXXXXX
 
 ### _Nombre y apellidos_ [@usuarioGithub](https://github.com/usuarioGithub)
@@ -16,5 +17,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quos quaerat nequ
 
 [Documentación](./docs/tareaXX.md)
 
-[Publicación](http://github.com/usuarioGit/nombreRepositorio)
+[Publicación](./index.html)
+
 
