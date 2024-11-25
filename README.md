@@ -15,8 +15,6 @@
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quos quaerat neque voluptatibus laborum perferendis eum, ea itaque delectus est explicabo, deleniti minima amet illo eius recusandae deserunt? Odit, accusantium!
 
-[Documentación](./docs/tareaXX.md)
-
 [Publicación](https://24-25-lmsgi.github.io/LM-plantilla-tarea/)
 
 
